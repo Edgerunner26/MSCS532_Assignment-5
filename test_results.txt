@@ -1,0 +1,9 @@
+test_edge_cases (test_quicksort.QuicksortTests.test_edge_cases) ... ok
+test_equal_values (test_quicksort.QuicksortTests.test_equal_values) ... ok
+test_ordered_inputs (test_quicksort.QuicksortTests.test_ordered_inputs) ... ok
+test_random_inputs (test_quicksort.QuicksortTests.test_random_inputs) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.167s
+
+OK

@@ -1,0 +1,5 @@
+Python: 3.12.8 (main, Aug 11 2026, 02:20:20) [GCC 15.2.0]
+Platform: Linux-6.1.155+-x86_64-with-glibc2.43
+Processor: Not reported
+Repeats: 3
+Input and pivot seeds: derived from 2026
